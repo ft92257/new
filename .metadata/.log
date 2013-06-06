@@ -1,0 +1,108 @@
+!SESSION 2013-06-05 11:55:58.422 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_18
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -showlocation -showlocation
+Command-line arguments:  -os win32 -ws win32 -arch x86 -showlocation -data C:\AppServ\www\new -showlocation
+
+!ENTRY org.eclipse.osgi 2 1 2013-06-05 11:55:58.840
+!MESSAGE NLS unused message: ECLIPSE_OSGI_NAME in: org.eclipse.osgi.framework.internal.core.ExternalMessages
+
+!ENTRY org.eclipse.osgi 2 1 2013-06-05 11:55:58.841
+!MESSAGE NLS unused message: OSGI_VERSION in: org.eclipse.osgi.framework.internal.core.ExternalMessages
+
+!ENTRY org.eclipse.osgi 2 1 2013-06-05 11:55:58.841
+!MESSAGE NLS unused message: ECLIPSE_COPYRIGHT in: org.eclipse.osgi.framework.internal.core.ExternalMessages
+
+!ENTRY org.eclipse.osgi 2 1 2013-06-05 11:55:58.841
+!MESSAGE NLS unused message: BUNDLE_CLASSPATH_ENTRY_NOT_FOUND_EXCEPTION in: org.eclipse.osgi.framework.internal.core.ExternalMessages
+
+!ENTRY org.eclipse.osgi 2 1 2013-06-05 11:55:58.842
+!MESSAGE NLS unused message: BUNDLE_FRAGMENT_IMPORT_CONFLICT in: org.eclipse.osgi.framework.internal.core.ExternalMessages
+
+!ENTRY org.eclipse.osgi 2 1 2013-06-05 11:55:58.842
+!MESSAGE NLS unused message: FILTER_INVALID in: org.eclipse.osgi.framework.internal.core.ExternalMessages
+
+!ENTRY org.eclipse.osgi 2 1 2013-06-05 11:55:58.842
+!MESSAGE NLS unused message: LAUNCHER_ADAPTOR_ERROR in: org.eclipse.osgi.framework.internal.core.ExternalMessages
+
+!ENTRY org.eclipse.osgi 2 1 2013-06-05 11:55:58.842
+!MESSAGE NLS unused message: LAUNCHER_INVALID_PORT in: org.eclipse.osgi.framework.internal.core.ExternalMessages
+
+!ENTRY org.eclipse.osgi 2 1 2013-06-05 11:55:58.843
+!MESSAGE NLS unused message: LAUNCHER_COMPONENT_MISSING in: org.eclipse.osgi.framework.internal.core.ExternalMessages
+
+!ENTRY org.eclipse.osgi 2 1 2013-06-05 11:55:58.843
+!MESSAGE NLS unused message: LAUNCHER_COMPONENT_JAR in: org.eclipse.osgi.framework.internal.core.ExternalMessages
+
+!ENTRY org.eclipse.osgi 2 1 2013-06-05 11:55:59.096
+!MESSAGE NLS unused message: ADAPTOR_DIRECTORY_REMOVE_EXCEPTION in: org.eclipse.osgi.internal.baseadaptor.ExternalMessages
+
+!ENTRY org.eclipse.osgi 2 1 2013-06-05 11:55:59.096
+!MESSAGE NLS unused message: ADAPTOR_ERROR_GETTING_MANIFEST in: org.eclipse.osgi.internal.baseadaptor.ExternalMessages
+
+!ENTRY org.eclipse.osgi 2 1 2013-06-05 11:55:59.096
+!MESSAGE NLS unused message: ADAPTOR_DATA_AREA_NOT_SET in: org.eclipse.osgi.internal.baseadaptor.ExternalMessages
+
+!ENTRY org.eclipse.osgi 2 1 2013-06-05 11:55:59.097
+!MESSAGE NLS unused message: BUNDLE_CLASSPATH_PROPERTIES_ERROR in: org.eclipse.osgi.internal.baseadaptor.ExternalMessages
+
+!ENTRY org.eclipse.osgi 2 1 2013-06-05 11:56:01.344
+!MESSAGE NLS unused message: busy in: org.eclipse.wst.sse.ui.internal.SSEUIPluginResources
+
+!ENTRY org.eclipse.osgi 2 1 2013-06-05 11:56:01.360
+!MESSAGE NLS unused message: TextEditorPreferencePage_colorsAndFonts_link_tooltip in: org.eclipse.ui.internal.editors.text.TextEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2013-06-05 11:56:01.360
+!MESSAGE NLS unused message: TextEditorPreferencePage_overwriteMode in: org.eclipse.ui.internal.editors.text.TextEditorMessages
+
+!ENTRY org.eclipse.jface 2 0 2013-06-05 11:56:01.453
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2013-06-05 11:56:01.453
+!MESSAGE A conflict occurred for CTRL+SHIFT+I:
+Binding(CTRL+SHIFT+I,
+	ParameterizedCommand(Command(org.eclipse.jdt.debug.ui.commands.Inspect,检查,
+		检查对所选文本求值的结果,
+		Category(org.eclipse.debug.ui.category.run,运行／调试,运行／调试命令类别,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.dialogAndWindow,,,system)
+Binding(CTRL+SHIFT+I,
+	ParameterizedCommand(Command(org.eclipse.php.debug.ui.commands.Inspect,Inspect,
+		Inspect result of evaluating selected text,
+		Category(org.eclipse.debug.ui.category.run,运行／调试,运行／调试命令类别,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.dialogAndWindow,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2013-06-05 11:56:01.453
+!MESSAGE A conflict occurred for CTRL+SHIFT+U:
+Binding(CTRL+SHIFT+U,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.search.occurrences.in.file.quickMenu,显示“文件中的出现位置”快速菜单,
+		显示“文件中的出现位置”快速菜单,
+		Category(org.eclipse.search.ui.category.search,搜索,搜索命令类别,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+U,
+	ParameterizedCommand(Command(com.aptana.ide.syncing.ui.commands.upload,Upload...,
+		,
+		Category(com.aptana.ide.syncing.ui.commands.category,File Transfer,File Transfer Commands,true),
+		com.aptana.ide.syncing.ui.handlers.UploadHandler,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.ui.workbench 2 0 2013-06-05 11:56:01.453
+!MESSAGE A handler conflict occurred.  This may disable some commands.
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2013-06-05 11:56:01.453
+!MESSAGE Conflict for 'org.eclipse.dltk.ui.edit.text.script.refactor.quickMenu':
+HandlerActivation(commandId=org.eclipse.dltk.ui.edit.text.script.refactor.quickMenu,
+	handler=org.eclipse.dltk.internal.ui.actions.refactoring.RefactorActionGroup$3@f30093,
+	expression=AndExpression(ActivePartExpression(org.eclipse.php.internal.ui.explorer.PHPExplorerPart@1945696),WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@b6f7f5)),sourcePriority=1064960)
+HandlerActivation(commandId=org.eclipse.dltk.ui.edit.text.script.refactor.quickMenu,
+	handler=org.eclipse.dltk.internal.ui.actions.refactoring.RefactorActionGroup$3@1aabda3,
+	expression=AndExpression(ActivePartExpression(org.eclipse.php.internal.ui.explorer.PHPExplorerPart@1945696),WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@b6f7f5)),sourcePriority=1064960)

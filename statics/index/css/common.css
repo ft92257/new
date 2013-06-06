@@ -1,0 +1,14 @@
+body{font-size:12px;font-family:"宋体";color:#1F1813;}
+*{padding:0;margin:0;}
+a{outline: none;color:#2097DD;}
+a img{border:0;}
+a:active {star:expression(this.onFocus=this.blur());}
+:focus {outline:0;}
+li{list-style-type:none;}
+
+/*分页*/
+#pages {font-family:宋体; text-align:center;margin-top:5px; }
+#pages a { display:inline-block; height:22px; line-height:22px; background:#c9c9c9; border:1px solid #e3e3e3; text-align:center; color:#fff; margin-left:4px; padding:0 4px;}
+#pages a.current { display:inline-block; width:26px; height:22px; line-height:22px; background:#5a85b2; border:1px solid #5a85b2; color:#fff; text-align:center; }
+#pages a.page_prev,#pages a.page_first,#pages a.page_last,#pages a.page_next { background:#4d81bb  0 5px; width:50px;}
+#pages a:hover { background:#F96; color:#000; text-decoration:none; }
